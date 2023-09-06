@@ -1,0 +1,62 @@
+AIStockPredictBbMain, Stock Market Price Prediction Based on AI Technologies
+
+  
+AIStockPredictBbMain is a Python library that uses several AI prediction models to predict stocks returns over a defined period of time. 
+
+AIStockPredictBbMain is based on AI /  deep neural networks algorithms from darts to process time series of stock data.
+
+Darts is a Python library for easy manipulation and forecasting of time series. It contains a variety of models, from classics such as ARIMA to deep neural networks. The models can all be used in the same way, using fit() and predict() functions, similar to scikit-learn. The library also makes it easy to backtest models, and combine the predictions of several models and external regressors. Darts supports both univariate and multivariate time series and models, and the neural networks can be trained on multiple time series.
+  
+
+Disclaimer
+=========
+
+Information is provided 'as is' and is solely for informational purposes, not for real-world trading purposes or advice.
+  
+
+How to Use 
+=========
+
+python AIStockPredictBb.py
+
+Change the settings in the above file as you prefer.
+
+
+Output
+======
+
+
+
+
+
+About Accuracy
+============
+   
+MAPE 	| Interpretation 
+
+<10  	| Highly accurate forecasting 	👌
+10-20  	| Good forecasting 		🆗 
+20-50  	| Reasonable forecasting 	😔 
+>50 	| Inaccurate forecasting 	👎
+	
+
+Models available
+=============
+  
+Exponential Smoothing 	✅
+Facebook Prophet 		✅
+ARIMA 			✅
+AutoARIMA 		✅
+Theta 			✅
+4 Theta 			✅
+Fast Fourier Transform (FFT) 	✅
+Naive Drift 		✅
+Naive Mean 		✅
+Naive Seasonal		✅
+
+  
+
+
+
+
+
