@@ -15,22 +15,15 @@ Information is provided 'as is' and is solely for informational purposes, not fo
   
 
 How to Use 
-=========
+===========
 
 python AIStockPredictBb.py
 
 Change the settings in the above file as you prefer.
 
 
-Output
-======
-
-
-
-
-
 About Accuracy
-============
+===============
    
 MAPE 	| Interpretation 
 
@@ -41,22 +34,17 @@ MAPE 	| Interpretation
 	
 
 Models available
-=============
+=================
   
-Exponential Smoothing 	✅
+Exponential Smoothing 		✅
 Facebook Prophet 		✅
-ARIMA 			✅
-AutoARIMA 		✅
-Theta 			✅
+ARIMA 				✅
+AutoARIMA 			✅
+Theta 				✅
 4 Theta 			✅
 Fast Fourier Transform (FFT) 	✅
-Naive Drift 		✅
-Naive Mean 		✅
-Naive Seasonal		✅
+Naive Drift 			✅
+Naive Mean 			✅
+Naive Seasonal			✅
 
   
-
-
-
-
-
